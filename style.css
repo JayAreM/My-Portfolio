@@ -490,6 +490,15 @@ nav .fa-solid{
     transition: background-color 1s, color 1s;
 }
 
+
+@media (max-width: 768px) {
+  /* CSS rules for screens up to 768px wide (e.g., tablets) */
+}
+
+@media (max-width: 480px) {
+  /* CSS rules for screens up to 480px wide (e.g., smartphones) */
+}
+
   
   /* Add other CSS rules for your dark mode */
   
