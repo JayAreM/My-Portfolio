@@ -492,12 +492,6 @@ nav .fa-solid{
 }
 
 
-@media (min-width: 600px) {
-  body {
-    padding-top: 0;
-    padding-left: 17rem;
-  }
-}
 
   
   /* Add other CSS rules for your dark mode */
