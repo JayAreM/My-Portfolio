@@ -24,7 +24,7 @@ body{
 .container{
     padding: 10px 10%;
 }
-@media (min-width: 992px) {
+
 nav{
     
     display: flex;
@@ -63,7 +63,7 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-}
+
 #clockDisplay{
     font-size: 20px;
     right: 170px;
@@ -492,7 +492,7 @@ nav .fa-solid{
 }
 
 
-@media (min-width: 992px) {
+@media (min-width: 600px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
