@@ -63,7 +63,6 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-
 #clockDisplay{
     font-size: 20px;
     right: 170px;
@@ -490,8 +489,6 @@ nav .fa-solid{
     color: #333;
     transition: background-color 1s, color 1s;
 }
-
-
 
   
   /* Add other CSS rules for your dark mode */
