@@ -404,7 +404,7 @@ nav .fa-solid{
     .copyright{
         font-size: 14px;
     }
-}
+
 #msg{
     color: #61b752;
     margin-top: -40px;
@@ -490,7 +490,7 @@ nav .fa-solid{
     transition: background-color 1s, color 1s;
 }
 
-  
+}  
   /* Add other CSS rules for your dark mode */
   
   
