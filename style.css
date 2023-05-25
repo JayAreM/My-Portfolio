@@ -491,12 +491,11 @@ nav .fa-solid{
 }
 
 
-@media (max-width: 100%) {
-  /* CSS rules for screens up to 768px wide (e.g., tablets) */
-}
-
-@media (max-width: 100%) {
-  /* CSS rules for screens up to 480px wide (e.g., smartphones) */
+@media (min-width: 992px) {
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
 }
 
   
